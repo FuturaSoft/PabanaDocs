@@ -24,4 +24,4 @@ Puis exécuter la commande suivantes en remplaçant "my_app_name" par le nom de 
 Cette commande a pour effet de télécharger Pabana et un squelette d'application vous permettant de faire fonctionner Pabana.
 
 ### Installation via archive
-Vous pouvez télécharger une archive contenant Pabana et un squellette d'application depuis la [page de téléchargement](https://pabana.futurasoft.fr/download/) du site web de Pabana.
+Vous pouvez télécharger une archive contenant Pabana et un squelette d'application depuis la [page de téléchargement](https://pabana.futurasoft.fr/download/) du site web de Pabana.
